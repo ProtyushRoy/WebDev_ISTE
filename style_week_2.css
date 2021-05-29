@@ -1,0 +1,30 @@
+nav {
+      list-style-type:none;
+      margin: 0px;
+      padding-bottom: 10px;
+      overflow: hidden;
+      font-size-adjust: 300;
+      background-color:papayawhip;
+      position:fixed;
+      top: 0;
+      width: 100%;
+      text-align: center;
+    }
+a {
+	 display: inline;
+	 padding: 5px
+}
+
+footer{
+	text-align: center;
+
+}
+img{
+	padding-top: 20px
+
+}
+body{
+	background-image:url(https://upload.wikimedia.org/wikipedia/commons/4/41/NITK_mangalore.jpg);
+
+	background-size: auto;
+}
